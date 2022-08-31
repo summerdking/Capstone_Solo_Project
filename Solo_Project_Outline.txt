@@ -1,0 +1,15 @@
+Name: Summer K.
+Project Title: Daily Meows
+Project Stack: Java Spring Boot
+GitHub Repo Link: https://github.com/summerdking/Capstone_Solo_Project
+
+Project Description: Cute website to post cat news and media.
+ 
+New Programming Concept(s) I'm Planning to Learn: File Upload
+
+Week 1 Features (to show at Review during Week 2): Due to my check in being scheduled at the end of week 2, I plan to have the project at 99% completion with only CSS and additional features outstanding. I plan to be able to show all functionality of creating a user and CRUD operations on posts.
+
+Week 2 Features (to show at the first office hour/lecture of Week 3): The project should be at 100% completion. I plan to be able to show all functionarlity of creating a user and CRUD operations on posts.
+
+
+Product Backlog (If I have more time after completing my MVP, I'll start to work on...): I would like to add a sort feature.
