@@ -1,0 +1,71 @@
+.img-fluid {
+	height: 75%;
+	width: 75%;
+}
+
+.card {
+	width: 25%;
+}
+
+.navbar {
+	background-color: #540E33;
+	padding: 1%;
+}
+
+h1 {
+	color: white;
+}
+
+.nav-link {
+	color: white;
+}
+
+body {
+	background-color: #FDC8B7;
+}
+
+input {
+	margin: 5px;
+}
+
+form {
+	width: 50%;
+}
+
+.row {
+	margin-top: 25px;
+}
+
+.btn-link {
+	color: red;
+}
+
+h2 {
+	background-color: #FDC8B7;
+	color: #540E33;
+}
+
+.card-header {
+	background-color: #6E9086;
+}
+
+.header {
+	color: white;
+}
+
+.card-footer {
+	background-color: white;
+}
+
+.form {
+	background-color: #6E9086;
+	padding: 20px;
+}
+
+h4 {
+	color: #540E33;
+}
+
+.footer {
+	color: #6E9086;
+}
